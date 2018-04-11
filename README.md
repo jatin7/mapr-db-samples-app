@@ -7,3 +7,8 @@ This project contains multiple applications that shows how to use MapR-DB:
 * simple-java-app : Java application that you can run in stand alone mode, you must add MapR-DB dependencies to the classpath
 * simple-web-app : Java Web application tested in Tomcat, you must add MapR-DB dependencies to the Tomcat shared-loader
 
+Create Streams
+maprcli stream create -path /apps/heros -produceperm p -consumeperm p -topicperm p -ttl 900
+
+
+Create MapRDB Tables
