@@ -47,11 +47,9 @@
   </properties>
 
   <modules>
-    <module>maprdb-utility</module>
-    <module>simple-java-app</module>
     <module>simple-web-app</module>
     <module>simple-kafka</module>
-    <module>maprdb-binary-json</module>
+    <module>maprdb-samples</module>
   </modules>
 
 
